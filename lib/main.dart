@@ -1,0 +1,7 @@
+import 'package:angler_music/app.dart';
+import 'package:flutter/material.dart';
+
+void main() {
+  runApp(App());
+}
+
